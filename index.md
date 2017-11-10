@@ -6,6 +6,8 @@
 
 [Project Doc Site](https://tinusaur.github.io/)
 
+[Terminology Cheatsheet] (https://codeshare.io/21PMvq)
+
 [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
 [Markdown Editor - Online](https://stackedit.io/)

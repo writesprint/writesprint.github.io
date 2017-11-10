@@ -2,9 +2,9 @@
 ## We might not have chocolate right here, but we have some useful links for the Tinusaur Project Writing Sprint!
 [Project Website](https://tinusaur.org/)
 
-[Project Doc Repo](https://github.com/tinusaur/tinusaur.github.io)
+[Project Doc Repo](https://github.com/tinusaur/guides/docs)
 
-[Project Doc Site](https://tinusaur.github.io/)
+[Project Doc Site](https://tinusaur.github.io/guides/)
 
 [Terminology Cheatsheet](https://codeshare.io/21PMvq)
 

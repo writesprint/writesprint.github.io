@@ -13,4 +13,4 @@
 [Markdown Editor - Desktop](http://pad.haroopress.com/)
 
 ## Happy writing!
-![WriteSprint](http://i979.photobucket.com/albums/ae274/venustrappedinmars/venustrappedinmars108/pinit.png)
+![WriteSprint](http://4.bp.blogspot.com/-y85vb2Y-dHM/VhBHLjzd_FI/AAAAAAAAFU4/3fNzLix6edg/s640/you%2Bcan%2Bdo%2Bit%2Bnano.jpg)
